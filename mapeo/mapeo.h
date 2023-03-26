@@ -1,0 +1,1 @@
+int mapeo (int , int , int , int , int );
